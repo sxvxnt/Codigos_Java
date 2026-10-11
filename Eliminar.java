@@ -30,7 +30,8 @@ public class Eliminar extends JFrame
         inst_JFrame.setSize(500,500);
         inst_JFrame.setVisible(true);
         inst_JFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+        
+        
     }
 
 }
